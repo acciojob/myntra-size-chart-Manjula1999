@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,tr,th,td{
+	border:1px solid  black;
+	border-collapse: collapse;	
+}
+#tr1{
+	background-color: lightseagreen;
+}
+#tr2{
+	background-color: deeppink;
+}
+#tr3{
+	background-color:lightskyblue;
+}
+#tr4{
+	background-color:lightgray
+}
